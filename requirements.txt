@@ -1,0 +1,7 @@
+streamlit==0.67.1
+pandas==1.1.2
+numpy==1.19.2
+matplotlib==3.3.2
+scikit-learn==0.23.2
+nba_api==1.1.9
+
